@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.vs": true,
+        "**/*.csproj": true,
+        "**/*.sln": true,
+        "**/Library": true,
+        "**/Logs": true,
+        "**/obj": true,
+        "**/Temp": true
+    },
+    "omnisharp.useModernNet": true,
+    "omnisharp.enableRoslynAnalyzers": true,
+    "dotnet.defaultSolution": "QuantumGame.sln"
+}
